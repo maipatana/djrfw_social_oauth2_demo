@@ -36,4 +36,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+# Add new Application
+Create the application as explained at the end of [this section](https://github.com/RealmTeam/django-rest-framework-social-oauth2#installation).
+
 You can now POST your token to this django server to get the access token as shown [here](https://github.com/RealmTeam/django-rest-framework-social-oauth2#facebook-example)
